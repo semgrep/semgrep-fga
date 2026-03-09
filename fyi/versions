@@ -22,7 +22,7 @@ Last change in file:
 ---
 File: semgrep-grammars/src/semgrep-fga/grammar.js
 Git repo name: ocaml-tree-sitter-semgrep
-Latest commit in repo: fdc34f286075ac40ae16b05dc38b923a6181e914
+Latest commit in repo: c869123493a655eeb61c380361f27b036fd71dc1
 Last change in file:
   commit fdc34f286075ac40ae16b05dc38b923a6181e914
   Author: Alex Useche <1915998+hex0punk@users.noreply.github.com>
